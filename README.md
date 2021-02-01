@@ -8,4 +8,4 @@ https://docs.aws.amazon.com/general/latest/gr/glos-chap.html
 
 LATEX
 
-$\frac{d}{{dx}}f\left( x \right)
+$\frac{d}{{dx}}f\left( x \right)$
